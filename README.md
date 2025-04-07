@@ -19,8 +19,7 @@ Clean and prepare the raw dataset to handle:
 ## Tools Used
 - Python 
 - Pandas 
-- Jupyter Notebook / VS Code
-- (Optional) Excel for quick inspection
+- Jupyter Notebook
 
 ---
 
